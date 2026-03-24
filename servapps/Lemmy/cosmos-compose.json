@@ -24,7 +24,7 @@
       "labels": {
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Lemmy/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lemmy/icon.png",
         "cosmos-stack": "{ServiceName}",
         "cosmos-stack-main": "{ServiceName}"
       },
@@ -164,7 +164,7 @@
       "labels": {
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Lemmy/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lemmy/icon.png",
         "cosmos-stack": "{ServiceName}",
         "cosmos-stack-main": "{ServiceName}"
       },
@@ -196,7 +196,7 @@
         "cosmos-persistent-env": "PICTRS__API_KEY",
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Lemmy/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lemmy/icon.png",
         "cosmos-stack": "{ServiceName}",
         "cosmos-stack-main": "{ServiceName}"
       },
@@ -249,7 +249,7 @@
         "cosmos-persistent-env": "POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB",
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Lemmy/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lemmy/icon.png",
         "cosmos-stack": "{ServiceName}",
         "cosmos-stack-main": "{ServiceName}"
       },
@@ -300,7 +300,7 @@
       "labels": {
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Lemmy/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lemmy/icon.png",
         "cosmos-stack": "{ServiceName}",
         "cosmos-stack-main": "{ServiceName}"
       },

@@ -36,7 +36,7 @@
       ],
       "labels": {
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/DockerMailServer/icon.png"
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/DockerMailServer/icon.png"
       },
       "ports": [
         "25:25",

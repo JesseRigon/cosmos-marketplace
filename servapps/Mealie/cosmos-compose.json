@@ -60,7 +60,7 @@
       "labels": {
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Mealie/icon.png"
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Mealie/icon.png"
       },
       "volumes": [
         {

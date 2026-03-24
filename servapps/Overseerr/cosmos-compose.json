@@ -77,7 +77,7 @@
       "labels": {
         "cosmos-force-network-secured": "true",
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Overseerr/icon.png"
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Overseerr/icon.png"
       },
       "volumes": [
         {

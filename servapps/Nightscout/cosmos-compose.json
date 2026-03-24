@@ -18,7 +18,7 @@
         ],
         "labels": {
           "cosmos-auto-update": "true",
-          "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Nightscout/icon.png",
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Nightscout/icon.png",
           "cosmos-stack": "{ServiceName}",
           "cosmos-stack-main": "{ServiceName}"
         },
@@ -45,7 +45,7 @@
         "container_name": "{ServiceName}-mongo",
         "hostname": "{ServiceName}-mongo",
         "labels": {
-          "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Nightscout/icon_mongo.png",
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Nightscout/icon_mongo.png",
           "cosmos-stack": "{ServiceName}",
           "cosmos-stack-main": "{ServiceName}"
         },

@@ -8,7 +8,7 @@
       "restart": "unless-stopped",
       "labels": {
         "cosmos-auto-update": "true",
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Trip/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Trip/icon.png",
         "cosmos-stack": "{ServiceName}"
       },
       "volumes": [

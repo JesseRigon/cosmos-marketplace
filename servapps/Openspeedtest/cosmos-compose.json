@@ -34,7 +34,7 @@
       ],
       {/if}
       "labels": {
-        "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Openspeedtest/icon.png",
+        "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Openspeedtest/icon.png",
         {if Context.EXPOSE_PORTS}
           "cosmos-force-network-secured": "false",
         {else}

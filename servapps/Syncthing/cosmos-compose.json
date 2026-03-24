@@ -21,7 +21,7 @@
           ],
           "labels": {
             "cosmos-auto-update": "true",
-            "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/servapps/Syncthing/icon.png"
+            "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Syncthing/icon.png"
           },
           "volumes": [
              {if Context.hostPath}
