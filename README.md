@@ -14,15 +14,7 @@ Go to **Settings → App Store → Add Repository** in Cosmos Cloud and paste th
 
 ## 📦 How It Works
 
-This marketplace uses **GitHub Actions** to automatically build and deploy:
 
-1. **Push to `master`** triggers the GitHub Actions workflow (`.github/workflows/static.yml`)
-2. **Build step** runs `node index.js` to generate `servapps.json` and `index.json`
-3. **Deploy step** publishes to GitHub Pages at `https://jesserigon.github.io/cosmos-marketplace/`
-
-**Important**: The JSON files (`servapps.json`, `index.json`) are **NOT committed** to the repo. They are built on-demand by GitHub Actions during deployment.
-
-## 🛠️ Configuration
 
 ### config.json
 
@@ -36,12 +28,21 @@ Update these values for your own fork:
 }
 ```
 
-### GitHub Pages Setup
+### GitHub Setup
 
-1. Go to your repo **Settings → Pages**
-2. Set **Source** to: **GitHub Actions** (NOT "Deploy from a branch")
-3. Push to `master` to trigger the first deployment
-4. Wait 1-2 minutes for the workflow to complete
+This marketplace uses **GitHub Actions** to automatically build and deploy:
+
+1. **Push to `master`** triggers the GitHub Actions workflow (`.github/workflows/static.yml`)
+2. **Build step** runs `node index.js` to generate `servapps.json` and `index.json`
+3. **Deploy step** publishes to GitHub Pages at `https://jesserigon.github.io/cosmos-marketplace/`
+
+Then 
+
+1. Make sure workflow actions are enabled in the project
+2. Go to your repo **Settings → Pages**
+3. Set **Source** to: **GitHub Actions** (NOT "Deploy from a branch")
+4. Push to `master` to trigger the first deployment
+5. Wait 1-2 minutes for the workflow to complete
 
 ## 📁 Adding Apps
 
