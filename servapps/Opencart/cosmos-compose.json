@@ -1,4 +1,4 @@
-{
+﻿{
   "cosmos-installer": {
     "post-install": [
       {
@@ -56,7 +56,7 @@
           "labels": {
             "cosmos-force-network-secured": "true",
             "cosmos-auto-update": "true",
-            "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/Redmine/icon.png",
+            "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/Redmine/icon.png",
             "cosmos-stack": "{ServiceName}",
             "cosmos-stack-main": "{ServiceName}"
           },

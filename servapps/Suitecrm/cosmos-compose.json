@@ -1,4 +1,4 @@
-{
+﻿{
     "cosmos-installer": {
         "form": [{
                 "name": "SUITECRM_USERNAME",
@@ -55,7 +55,7 @@
                 "cosmos-persistent-env": "SUITECRM_DATABASE_PASSWORD, SUITECRM_DATABASE_HOST, SUITECRM_DATABASE_PORT_NUMBER, SUITECRM_DATABASE_USER, SUITECRM_DATABASE_NAME",
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://azukaar.github.io/cosmos-servapps-official/Suitecrm/icon.png",
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/Suitecrm/icon.png",
                 "cosmos-stack": "{ServiceName}",
                 "cosmos-stack-main": "{ServiceName}"
             },
