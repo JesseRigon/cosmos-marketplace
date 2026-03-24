@@ -1,4 +1,4 @@
-const fs = require('fs')
+﻿const fs = require('fs')
 const { config } = require('process')
 const configFile = require('./config.json')
 
