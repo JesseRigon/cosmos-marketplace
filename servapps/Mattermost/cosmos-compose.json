@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.9.0",
     "services": {
@@ -50,7 +50,7 @@
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
                 "cosmos.stack": "{ServiceName}-mattermost",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Mattermost/logo/numix-circle-for-windows-mattermost.jpg"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Mattermost/icon.png"
             },
             "networks": {
                 "{ServiceName}-postgres": {}

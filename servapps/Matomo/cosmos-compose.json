@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.9.0",
     "services": {
@@ -19,7 +19,7 @@
                 "cosmos-force-network-secured": "true",
                 "cosmos.stack": "{ServiceName}-matomo",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Matomo/logo/icon.png"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Matomo/icon.png"
             },
             "volumes": [{
                     "source": "{ServiceName}-data-matomo",

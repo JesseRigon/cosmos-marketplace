@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {
       "post-install": [
         {
@@ -51,7 +51,7 @@
         "labels": {
           "cosmos.stack": "{ServiceName}-dtrack-apiserver",
           "cosmos.stack.main": "true",
-          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/DependencyTrack/logo/0_lJTkWI1TOFW-dvkY.png"
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/DependencyTrack/icon.png"
         }
       },
       "{ServiceName}-dtrack-frontend": {
@@ -77,7 +77,7 @@
         "network_mode": "cosmos-dtrack-apiserver-default",
         "labels": {
           "cosmos.stack": "{ServiceName}-dtrack-apiserver",
-          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/DependencyTrack/logo/0_lJTkWI1TOFW-dvkY.png"
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/DependencyTrack/icon.png"
         }
       }
     },

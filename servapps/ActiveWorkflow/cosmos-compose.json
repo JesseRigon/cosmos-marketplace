@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.9.0",
     "services": {
@@ -31,7 +31,7 @@
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
                 "cosmos.stack": "{ServiceName}-active_workflow",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/ActiveWorkflow/logo/icon.png"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/ActiveWorkflow/icon.png"
             },
             "networks": {
                 "{ServiceName}-postgres": {}

@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {
         "post-install": [{
             "type": "info",
@@ -18,7 +18,7 @@
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
                 "cosmos.stack": "{ServiceName}-social",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Social-Analyzer/logo/logo.jpg"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Social-Analyzer/icon.png"
             },
             "routes": [{
                 "name": "{ServiceName}",

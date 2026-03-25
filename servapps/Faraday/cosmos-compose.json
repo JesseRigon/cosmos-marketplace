@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.15.0",
     "services": {
@@ -77,7 +77,7 @@
         "network_mode": "cosmos-{ServiceName}-db-default",
         "labels": {
           "cosmos.stack": "{ServiceName}-db",
-          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Faraday/logo/0_lJTkWI1TOFW-dvkY.png"
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Faraday/icon.png"
         }
       }
     },

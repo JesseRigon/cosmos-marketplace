@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {
         "form": [{
                 "name": "ELASTIC_MEMORY_SIZE",
@@ -170,7 +170,7 @@
         "restart": "always",
         "container_name": "{ServiceName}-opencti",
         "labels": {
-            "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/OpenCti/logo/0_lJTkWI1TOFW-dvkY.png",
+            "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/OpenCti/icon.png",
             "cosmos-force-network-secured": "true",
             "cosmos-auto-update": "true",
             "cosmos.stack": "{ServiceName}-OpenCti"

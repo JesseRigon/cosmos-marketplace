@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {
         "form": [{
                 "name": "URL_MAIN",
@@ -227,7 +227,7 @@
         "labels": {
           "cosmos.stack": "{ServiceName}",
           "cosmos.stack.main": "true",
-          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Rengine/logo/0_lJTkWI1TOFW-dvkY.png"
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Rengine/icon.png"
         }
       },
       "{ServiceName}-proxy": {

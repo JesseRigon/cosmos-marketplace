@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.8.0",
     "services": {
@@ -11,7 +11,7 @@
             "labels": {
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/VictoriaMetrics/logo/0_lJTkWI1TOFW-dvkY.png"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/VictoriaMetrics/icon.png"
             },
             "volumes": [{
                     "source": "{ServiceName}-victoria-metrics-data",

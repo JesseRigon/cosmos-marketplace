@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.8.0",
     "services": {
@@ -9,7 +9,7 @@
                 "cosmos-persistent-env": "",
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/NetAlertX/logo/doku7384.jpg"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/NetAlertX/icon.png"
             },
             "environment": [
                 "PORT=20211"

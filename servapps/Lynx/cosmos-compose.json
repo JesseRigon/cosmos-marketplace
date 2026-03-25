@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.8.0",
     "services": {
@@ -34,7 +34,7 @@
                 "cosmos-force-network-secured": "true",
                 "cosmos.stack": "{ServiceName}-lynx",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lynx/logo/icon.png"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Lynx/icon.png"
             },
             "networks": {
                 "{ServiceName}-mongo": {}

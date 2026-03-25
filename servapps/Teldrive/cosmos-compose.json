@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {},
     "minVersion": "0.9.0",
     "services": {
@@ -17,7 +17,7 @@
           "cosmos-force-network-secured": "true",
           "cosmos-auto-update": "true",
           "cosmos.stack": "{ServiceName}-teldrive",
-          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Teldrive/logo/icon.png"
+          "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Teldrive/icon.png"
         },
         "networks": {
           "{ServiceName}-postgres": {}

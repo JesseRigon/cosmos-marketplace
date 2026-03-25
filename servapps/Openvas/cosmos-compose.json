@@ -1,4 +1,4 @@
-﻿{
+{
     "cosmos-installer": {
         "form": [{
                 "name": "PASSWORD",
@@ -23,7 +23,7 @@
                 "cosmos-persistent-env": "PASSWORD",
                 "cosmos-force-network-secured": "true",
                 "cosmos-auto-update": "true",
-                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Openvas/logo/0_lJTkWI1TOFW-dvkY.png"
+                "cosmos-icon": "https://jesserigon.github.io/cosmos-marketplace/servapps/Openvas/icon.png"
             },
             "volumes": [
                 {
